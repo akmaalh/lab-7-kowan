@@ -11,6 +11,13 @@ h1 {
   margin-bottom: 30px;
 }
 
+h2 {
+  text-align: center;
+  color: #515151;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
 .forms-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

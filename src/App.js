@@ -163,6 +163,7 @@ function App() {
     return (
         <div className="container">
             <h1>Area Calculator</h1>
+            <h2>Muhammad Akmal Hakim - 2106750383 - Lab 7 Kowan</h2>
             <div className="forms-grid">
                 <SquareForm onResult={setSquareArea} />
                 <CubeForm onResult={setCubeArea} />
